@@ -1,3 +1,5 @@
+##GJ_major8tdmt.tar.gz
+
 GJ_major8tdmt_info.lst:
 Locations, origin times, and magnitudes (Mw) of the eight major events in the 2016 Gyeongju earthquake sequence (Table 1 in Son et al., 2018).  
 
