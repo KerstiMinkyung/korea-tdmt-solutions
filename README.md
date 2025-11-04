@@ -10,4 +10,4 @@ TDMT solutions in GMT `psmeca -Sm` format (depth in km; tensor components mrr–
 Plot of the eight TDMT focal mechanisms.
 
 **Son.BSSA.V115.P1189.2018.pdf**  
-Reference – Son et al. (2018).
+Reference.
