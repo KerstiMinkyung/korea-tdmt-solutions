@@ -8,9 +8,9 @@
 Locations, origin times, and magnitudes (Mw) of the eight major events in the 2016 Gyeongju earthquake sequence (Table 1 in Son et al., 2018).
 
 **GJ_major8tdmt_element.lst**  
-TDMT solutions in GMT `psmeca -Sm` format (depth in km; tensor components mrr to mtf ×10^exponent dyne·cm; exponent) (Figure 1b in Son et al., 2018).
+TDMT solutions in GMT `psmeca -Sm` format (Figure 1b in Son et al., 2018).
 
-| Lon | Lat | Depth (km) | mrr | mtt | mff | mrt | mrf | mtf | Exp | X | Y | Label |
+| Lon | Lat | Dep. (km) | mrr | mtt | mff | mrt | mrf | mtf | Exp | X | Y | Label |
 |------|------|-------------|------|-------|--------|--------|--------|--------|------|---|---|---|
 |129.19107|35.76976|14.0|378.271|3104.81|-3483.09|993.65|-596.369|2021.793|20|X|Y|F|
 |129.19032|35.76205|13.0|3716.84|12109.5|-15826.3|5630.83|-3159.353|10538.613|20|X|Y|M|
