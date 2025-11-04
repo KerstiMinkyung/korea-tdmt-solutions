@@ -3,7 +3,7 @@
 
 
 ## GJ_major8tdmt.tar.gz
-2016 Mw 5.4 Gyeongju earthquake
+2016 Mw 5.4 Gyeongju earthquake sequence
 
 **GJ_major8tdmt_info.lst**  
 Table 1 in Son et al. (2018).
